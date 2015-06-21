@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/user/Documents/Deployement_Apps/Retrofit/app/build/intermediates/pre-dexed/debug/gson-2.3.1-119c9d16646ef6989f022b88c7f91443fabfc025.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/user/Documents/Deployement_Apps/Retrofit/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-1b62ccf9ce199de2a9455485c349ff1563959e3f.jar" />
+    </item>
+
+</items>
